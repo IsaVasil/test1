@@ -1,0 +1,17 @@
+ 1.izpolzvame ps za da vidim rabote6tite procesi
+
+ 2.izpolzvame mkdir "MMS C Camp" za syzdavane na direktoriq
+ kopiraneto na failovete stava 4rez cp *.c "file na premestvane"
+ premahvaneto stava 4rez komanda [0-9]* po tozi na4in kazvame da se premahnat 
+ vsi4ki filove zapo4va6ti sys stoinosti ot 0-9
+
+ 3.izpolzvame komanda chmod 754 testFile za da zadadem dadenite prava
+ 7 dava prava za 4etene pisane i izpylnenie
+ 5 dava prava za 4etene i izpylnenie
+ 4 dava prava za 4etene
+
+ 4. cat | wc -l source1.c source2.c > lineCOunt po tozi na4in broq na redovete v failovete
+  i gi zapisvame v fila lineCount
+
+ 5.izpolzvame wc *c za da namerim kolko faila s .c imame v direktoriqta
+ izpolzvame komandata wc -l *c za da vidim kolko reda c imame
